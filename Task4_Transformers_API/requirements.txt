@@ -1,0 +1,8 @@
+torch
+transformers>=4.40
+datasets
+scikit-learn
+pandas
+fastapi
+uvicorn
+accelerate
